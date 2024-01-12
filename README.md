@@ -18,9 +18,9 @@ Welcome to the Employee Management System project! This application is designed 
 
 ## Images
 
-   <img src="Images/indexPage.png" alt="Index Page Image">
-   <img src="Images/addEmployee.png" alt="Add Employee Image">
-   <img src="Images/updateEmployee.png" alt="Update Employee Image">
+   <img src="Images/indexPage.png.png" alt="Index Page Image">
+   <img src="Images/addEmployee.png.png" alt="Add Employee Image">
+   <img src="Images/updateEmployee.png.png" alt="Update Employee Image">
 
 ## Getting Started
 
