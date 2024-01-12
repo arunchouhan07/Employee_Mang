@@ -22,7 +22,7 @@ Follow these steps to get the Employee Management System up and running on your 
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/arunchouhan07/Employee-Management-CRUD-Opertions.git
    ```
 
 2. **Build and Run the Application**:
@@ -40,7 +40,7 @@ Follow these steps to get the Employee Management System up and running on your 
 
 ## API Documentation
 
-Detailed API documentation is available to guide you through the available endpoints and their functionalities. You can access the documentation at [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html).
+Detailed API documentation is available to guide you through the available endpoints and their functionalities. You can access the documentation at [API Dog Website](https://apidog.com/blog/create-test-crud-rest-api/).
 
 ## Technologies Used
 
