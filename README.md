@@ -16,6 +16,11 @@ Welcome to the Employee Management System project! This application is designed 
 
 - **Postman Collection**: A Postman collection is included to facilitate testing and exploring the RESTful APIs easily.
 
+## Images
+
+   <img src="indexPage.png" alt="Image Description">
+
+
 ## Getting Started
 
 Follow these steps to get the Employee Management System up and running on your local machine:
